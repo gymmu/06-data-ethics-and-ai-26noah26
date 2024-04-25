@@ -1,0 +1,9 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'c:/Users/lynn0/OneDrive/Desktop/Schule/Info/Paper über data ethics/06-data-ethics-and-ai-26noah26/documents/build/tutorial.blg'
+[227] biber-MSWIN64:340> INFO - === 
+[286] Biber.pm:419> INFO - Reading 'c:/Users/lynn0/OneDrive/Desktop/Schule/Info/Paper über data ethics/06-data-ethics-and-ai-26noah26/documents/build/tutorial.bcf'
+[514] Biber.pm:979> INFO - Found 0 citekeys in bib section 0
+[553] bbl.pm:660> INFO - Writing 'c:/Users/lynn0/OneDrive/Desktop/Schule/Info/Paper über data ethics/06-data-ethics-and-ai-26noah26/documents/build/tutorial.bbl' with encoding 'UTF-8'
+[553] bbl.pm:763> INFO - Output to c:/Users/lynn0/OneDrive/Desktop/Schule/Info/Paper über data ethics/06-data-ethics-and-ai-26noah26/documents/build/tutorial.bbl
+[560] Biber.pm:131> WARN - The file 'c:/Users/lynn0/OneDrive/Desktop/Schule/Info/Paper über data ethics/06-data-ethics-and-ai-26noah26/documents/build/tutorial.bcf' does not contain any citations!
+[560] Biber.pm:133> INFO - WARNINGS: 1
